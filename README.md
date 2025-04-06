@@ -10,4 +10,4 @@ A website for dump NSIS file
 ## Installation
 * Clone the project: `git clone https://github.com/sp4r1ng/NSIS_extractor.git`
 * Go to the project directory: `cd NSIS_extractor`
-* Compile the project: `npm i && node.`
+* Compile the project: `npm i && node .`
